@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 俗書刋誤
-#+DATE: 2017-03-23 10:39:38.536075
+#+DATE: 2017-03-23 10:39:38.592125
 #+PROPERTY: ID KR1j0046
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR1j0046_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -127,7 +127,7 @@
 字一作□又作浾今作渣非又都賈切土苴不精細¶
 也又側下切糞艸也又側魚切説文曰酢菜也(酢古醋字)¶
 又莊俱切姓也漢有苴氏又則吾切茅藉祭也又將¶
-預切糟&KR0334;也又子余切苞苴囊貨也¶
+預切糟魄也又子余切苞苴囊貨也¶
 ¶
 　　俗書刊誤卷十¶
 ¶
